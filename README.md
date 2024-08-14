@@ -53,8 +53,8 @@ A aplicação principal (app-shell) rodará na porta 4200.
 [x] Página inicial com menu e navegação. Estimativa: 3 horas \
 [x] Página de cadastro de parceiro. Estimativa: 4 horas \
 [x] Listar todos os parceiros com paginação, editar e deletar. Estimativa: 6 horas \
-[ ] Página de cadastro de empresa externa. Estimativa: 4 horas \
-[ ] Listar todas as empresas externas com paginação, editar e deletar. Estimativa: 6 horas \
+[x] Página de cadastro de empresa externa. Estimativa: 4 horas \
+[x] Listar todas as empresas externas com paginação, editar e deletar. Estimativa: 6 horas \
 [ ] Página "Sobre a aplicação". Estimativa: 2 horas \
 [x] Funcionalidade de compartilhamento de URL com paginação. Estimativa: 5 horas \
 [x] Integração com as APIs para CRUD. Estimativa: 8 horas \
@@ -66,7 +66,7 @@ Infraestrutura  \
  \
 Documentação e Extras \
 [ ] Gravar vídeo de apresentação e subir no YouTube. Estimativa: 2 horas \
-[ ] Atualizar README com instruções e lista de tarefas. Estimativa: 1 hora
+[x] Atualizar README com instruções e lista de tarefas. Estimativa: 1 hora
 
 ## Autor
 
