@@ -70,7 +70,7 @@ A aplicação principal (app-shell) rodará na porta 4200.
 [ ] Página "Sobre a aplicação". Estimativa: 2 horas \
 [x] Funcionalidade de compartilhamento de URL com paginação. Estimativa: 5 horas \
 [x] Integração com as APIs para CRUD. Estimativa: 8 horas \
-[ ] Implementação de testes unitários. Estimativa: 5 horas \
+[x] Implementação de testes unitários. Estimativa: 5 horas \
  \
 Infraestrutura  \
 [ ] Configurar Docker para a aplicação. Estimativa: 3 horas \
