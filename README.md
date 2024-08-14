@@ -36,9 +36,9 @@ $ cd {{nome-do-projeto}}
 $ npm install
 ```
 
-## Execute a aplicação
+## Execute cada aplicação aplicação
 ```bash
-$ ng serve
+$ ng run start
 ```
 
 Cada aplicação inciará na porta conforme informado no tópico "Sobre a aplicação".
