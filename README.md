@@ -1,27 +1,77 @@
-# TesteFrontEndTeddy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+# Desafio Frontend - Teddy
 
-## Development server
+O desafio consiste em desenvolver uma aplicação web para cadastro de parceiros e empresas externas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias
 
-## Code scaffolding
+- Angular 15
+- TypeScript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+Para rodar o projeto, você deve ter instalado o Node.js.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Clone o repositório
+```bash
+$ git clone
+```
+# Acesse a pasta do projeto no terminal/cmd
+```bash
+$ cd desafio-frontend
+```
 
-## Running unit tests
+# Instale as dependências
+```bash
+$ npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Execute a aplicação
+```bash
+$ ng serve
+```
 
-## Running end-to-end tests
+O servidor inciará na porta:4200 - acesse http://localhost:4200
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Autor
 
-## Further help
+- LinkedIn - [Jhonata Tenorio](https://www.linkedin.com/in/jhonata-tenorio/)
+- GitHub - [Jhonata Tenorio](
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# TODO / TASKS
+
+## Funcionalidades
+
+[x] Página de login com opção "manter conectado".
+Estimativa: 2 horas
+[x] Página inicial com menu e navegação.
+Estimativa: 3 horas
+[x] Página de cadastro de parceiro.
+Estimativa: 4 horas
+[x] Listar todos os parceiros com paginação, editar e deletar.
+Estimativa: 6 horas
+[ ] Página de cadastro de empresa externa.
+Estimativa: 4 horas
+[ ] Listar todas as empresas externas com paginação, editar e deletar.
+Estimativa: 6 horas
+[ ] Página "Sobre a aplicação".
+Estimativa: 2 horas
+[x] Funcionalidade de compartilhamento de URL com paginação.
+Estimativa: 5 horas
+[x] Integração com as APIs para CRUD.
+Estimativa: 8 horas
+[ ] Implementação de testes unitários.
+Estimativa: 5 horas
+Infraestrutura
+[ ] Configurar Docker para a aplicação.
+Estimativa: 3 horas
+[ ] Deploy no GitHub Pages.
+Estimativa: 2 horas
+Documentação e Extras
+[ ] Gravar vídeo de apresentação e subir no YouTube.
+Estimativa: 2 horas
+[ ] Atualizar README com instruções e lista de tarefas.
+Estimativa: 1 hora
+
+Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
