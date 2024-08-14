@@ -41,6 +41,18 @@ $ npm install
 $ ng run start
 ```
 
+# Testes
+
+## Acesse a pasta do projeto no terminal/cmd
+```bash
+$ cd {{nome-do-projeto}}
+```
+
+## Execute os testes de cada aplicação
+```bash
+$ npm run test
+```
+
 Cada aplicação inciará na porta conforme informado no tópico "Sobre a aplicação".
 
 A aplicação principal (app-shell) rodará na porta 4200.
